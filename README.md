@@ -1,8 +1,8 @@
 # \[Group name\]
 
 **Group members:**
-- A
-- B
+- Anna Bertram
+- Lucas Jantunen aka Robert Hansen
 - C
 
 This repository contains  
