@@ -3,7 +3,7 @@
 **Group members:**
 - Anna Bertram
 - Lucas Jantunen aka Robert Hansen
-- C
+- TBD
 
 This repository contains  
 1. Inaugural project. 
