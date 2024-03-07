@@ -1,4 +1,4 @@
-# \[Group name\]
+# It Hurts When IP
 
 **Group members:**
 - Anna Bertram
