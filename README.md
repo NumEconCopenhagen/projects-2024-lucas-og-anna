@@ -1,8 +1,8 @@
-# It Hurts When IP
+#
 
 **Group members:**
 - Anna Bertram
-- Lucas Jantunen aka Robert Hansen
+- 
 - TBD
 
 Hallo hallo hello hello
